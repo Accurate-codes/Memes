@@ -6,11 +6,11 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f4f8;
+    background-color: #0f2b47;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100svh;
 }
 
 .container {
@@ -26,7 +26,7 @@ body {
 
 h1 {
     font-size: 2.5rem;
-    color: #444;
+    color: #4e4141;
     margin-bottom: 20px;
     font-weight: 700;
 }
@@ -36,7 +36,7 @@ h1 {
 }
 
 #newMemeBtn {
-    background-color: #ff5722;
+    background-color: #1f1c41;
     color: white;
     border: none;
     padding: 12px 24px;
@@ -47,7 +47,7 @@ h1 {
 }
 
 #newMemeBtn:hover {
-    background-color: #e64a19;
+    background-color: #b94521;
 }
 
 #newMemeBtn:active {
